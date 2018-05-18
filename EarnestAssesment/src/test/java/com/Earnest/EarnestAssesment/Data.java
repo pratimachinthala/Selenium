@@ -5,7 +5,7 @@ public class Data {
 	   public static int Elephant = 1;
 	   public static int Zebra = 5;
 	   public static int Giraffe = 8;
-	   public static String State = "NV";
+	   public static String State = "CA";
 
 	   public static int InvalidLion = 30;
 	   public static int InvalidZebra = 50;
